@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Roshan</h1>
 <h3 align="center">A passionate frontend developer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=d-d-roshan&label=Profile%20views&color=0e75b6&style=flat" alt="d-d-roshan" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=d-d-roshan" alt="d-d-roshan" /></a> </p>
+<img align="center" alt="coding" width="400" src="https://www.animatedimages.org/data/media/56/animated-computer-image-0116.gif" border="0" alt="animated-computer-image-0116" />
 
 - 📝 I regularly write articles on [https://roshan-tech.blogspot.com/](https://roshan-tech.blogspot.com/)
 
