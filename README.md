@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Roshan</h1>
 <h3 align="center">A passionate frontend developer</h3>
-<img align="center" alt="coding" width="400" src="https://www.animatedimages.org/data/media/56/animated-computer-image-0116.gif" border="0" alt="animated-computer-image-0116" />
+<img align="centre" alt="coding" width="300" src="https://www.animatedimages.org/data/media/56/animated-computer-image-0116.gif" border="0" alt="animated-computer-image-0116" />
 
 - 📝 I regularly write articles on [https://roshan-tech.blogspot.com/](https://roshan-tech.blogspot.com/)
 
