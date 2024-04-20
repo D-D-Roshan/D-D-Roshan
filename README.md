@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer</h3>
 <img align="right" width="300" src="https://www.animatedimages.org/data/media/56/animated-computer-image-0116.gif"  alt="animated-computer-image-0116" />
 
-- 📝 I regularly write articles on [https://roshan-tech.blogspot.com/](https://roshan-tech.blogspot.com/)
+- 📝 I regularly write blogs on [https://roshan-tech.blogspot.com/](https://roshan-tech.blogspot.com/)
 
 - 📫 How to reach me **droshan01092003@gmail.com**
 
