@@ -5,27 +5,27 @@
 </h1>
 
 ## 🌐 Connect with me👇👇
-:
+
 <div align="center">
 <a href="https://www.facebook.com/roshan.d.942145">
-<img src="https://img.icons8.com/?size=100&id=118497&format=png&color=000000" target="_blank"/>
+<img width="70" height="70" src="https://img.icons8.com/?size=100&id=118497&format=png&color=000000" target="_blank"/>
 </a> 
 <a href="https://discord.com/invite/M8he9HxQ">
-<img src="https://img.icons8.com/?size=100&id=M725CLW4L7wE&format=png&color=000000" target="_blank"/>
+<img width="70" height="70" src="https://img.icons8.com/?size=100&id=M725CLW4L7wE&format=png&color=000000" target="_blank"/>
 </a> 
 <a href="https://www.linkedin.com/in/d-d-roshan">
-<img src="https://img.icons8.com/?size=100&id=kFJzAZryEscq&format=png&color=000000" target="_blank"/>
+<img width="70" height="70" src="https://img.icons8.com/?size=100&id=kFJzAZryEscq&format=png&color=000000" target="_blank"/>
 </a>  
 <a href="https://www.instagram.com/d_roshan_official">
-<img src="https://img.icons8.com/?size=100&id=32323&format=png&color=000000" target="_blank"/>
+<img width="70" height="70" src="https://img.icons8.com/?size=100&id=32323&format=png&color=000000" target="_blank"/>
 </a>  
 <a href="https://github.com/D-D-Roshan/D-D-Roshan">
-<img src="https://img.icons8.com/?size=100&id=akG4VRhAoSii&format=png&color=000000" target="_blank"/>
+<img width="70" height="70" src="https://img.icons8.com/?size=100&id=akG4VRhAoSii&format=png&color=000000" target="_blank"/>
 </a> 
 </div>
 
 ## 💻 Skills:
-
+[![My Skills](https://skillicons.dev/icons?i=au,babel,bootstrap,css,express,figma,firebase,git,html,java,js,jquery,mongodb,mysql,nodejs,npm,postgres,postman,py,react,tailwind,vscode,wordpress,yarn&perline=20)](https://skillicons.dev)
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=D-D-Roshan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=D-D-Roshan&theme=tokyonight&hide_border=false)<br/>
