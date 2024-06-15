@@ -1,4 +1,4 @@
-<img align="centre" width="1980" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/a6016a2f184edaf900a7f86fa3db9c30-1661328032/Chompers_Twitter/make-pixel-art-anime-style-game-style-additional-animation.gif" alt="animation">
+<img align="centre" width="1980" height="350" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/a6016a2f184edaf900a7f86fa3db9c30-1661328032/Chompers_Twitter/make-pixel-art-anime-style-game-style-additional-animation.gif" alt="animation">
 <h1 align="center">Hi 👋, I'm Roshan</h1>
 <h3 align="center">A passionate frontend developer</h3>
 <img align="right" width="300" src="https://www.animatedimages.org/data/media/56/animated-computer-image-0116.gif"  alt="animated-computer-image-0116" />
