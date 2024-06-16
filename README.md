@@ -1,10 +1,14 @@
-<img align="centre" width="1980" height="350" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/a6016a2f184edaf900a7f86fa3db9c30-1661328032/Chompers_Twitter/make-pixel-art-anime-style-game-style-additional-animation.gif" alt="animation">
+<img align="left" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif"/>
+<img align="center" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif"/>
 
 <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&random=false&width=650&height=100&lines=Hello%F0%9F%91%8BI'm+Roshan;I'm+A+passionate+Frontend+Developer;and+UI+Designer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&random=false&width=650&height=100&lines=Hello%F0%9F%91%8BI'm+Roshan;I'm+A+passionate+Frontend+Developer;and+UI+Designer" alt="Typing SVG" />
+</a>
 </h1>
 
-## 🌐 Connect with me👇👇
+## 🌐 CONNECT WITH ME👇👇
 
 <div align="center">
 <a href="https://www.facebook.com/roshan.d.942145">
@@ -24,24 +28,21 @@
 </a> 
 </div>
 
-## 💻 Skills:
+## 💻TECH TOOLKIT:
 [![My Skills](https://skillicons.dev/icons?i=au,babel,bootstrap,css,express,figma,firebase,git,html,java,js,jquery,mongodb,mysql,nodejs,npm,postgres,postman,py,react,tailwind,vscode,wordpress,yarn&perline=20)](https://skillicons.dev)
-## 📊 GitHub Stats:
+## 📊 GITHUB STATS:
+
 ![](https://github-readme-stats.vercel.app/api?username=D-D-Roshan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=D-D-Roshan&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=D-D-Roshan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=D-D-Roshan&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+
+### ✍️ RANDOM DEV QUOTES
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
+### 🔝 TOP CONTRIBUTED REPO
 ![](https://github-contributor-stats.vercel.app/api?username=D-D-Roshan&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=D-D-Roshan&icon=0&color=0)](https://visitcount.itsvg.in)
