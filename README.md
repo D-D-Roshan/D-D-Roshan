@@ -1,18 +1,15 @@
+<img width="3000" height="500" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif"/>
 <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+code&size=35&pause=1000&color=F7E9AB&random=false&height=100&lines=Hello%F0%9F%91%8B+I'm+Roshan" alt="Typing SVG" /></a>
 <a href="https://git.io/typing-svg">
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+code&size=35&pause=1000&color=F7E9AB&random=false&height=100&lines=Hello%F0%9F%91%8B+I'm+Roshan" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&random=false&width=650&height=100&lines=I'm+A+passionate+Frontend+Developer" alt="Typing SVG" />
 </a>
 </h1> 
 
-
-
-
-
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face.png" alt="Smiling Face" width="25" height="25" />ABOUT ME:
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down.png" alt="Backhand Index Pointing Down" width="25" height="25" /> CONNECT WITH ME:
-
 <div align="center">
 <a href="https://www.facebook.com/roshan.d.942145">
 <img width="60" height="60" src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" target="_blank"/>
