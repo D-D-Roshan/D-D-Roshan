@@ -1,4 +1,4 @@
-<img width="2000" height="300" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif"/>
+<img width="2000" height="300" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>
 <h1 align="center">
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+code&size=35&pause=1000&color=F7E9AB&random=false&height=100&lines=Hello%F0%9F%91%8B+I'm+Roshan" alt="Typing SVG" /></a>
@@ -48,7 +48,7 @@
 </div>
 </div>
 
-### ✍️ RANDOM DEV QUOTES
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Dark%20Skin%20Tone.png" alt="Writing Hand Dark Skin Tone" width="25" height="25" /> RANDOM DEV QUOTES
 <div align="center">
           
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
