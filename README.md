@@ -1,14 +1,17 @@
 <h1 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+code&size=35&pause=1000&color=F7E9AB&random=false&height=100&lines=Hello%F0%9F%91%8B+I'm+Roshan" alt="Typing SVG" /></a>
-</h1>        
-<h2 align="center">
 <a href="https://git.io/typing-svg">
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&random=false&width=650&height=100&lines=I'm+A+passionate+Frontend+Developer" alt="Typing SVG" />
 </a>
-</h2>
+</h1> 
 
-## 🌐 CONNECT WITH ME<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down.png" alt="Backhand Index Pointing Down" width="25" height="25" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down.png" alt="Backhand Index Pointing Down" width="25" height="25" />
+
+
+
+
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down.png" alt="Backhand Index Pointing Down" width="25" height="25" /> CONNECT WITH ME:
 
 <div align="center">
 <a href="https://www.facebook.com/roshan.d.942145">
@@ -28,7 +31,8 @@
 </a> 
 </div>
 
-## 💻TECH TOOLKIT:
+## <img width="25" height="25"  src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"/>TECH TOOLKIT:
+
 <div  align="center">
 
 [![My Skills](https://skillicons.dev/icons?i=au,babel,bootstrap,css,express,figma,firebase,git,html,java,js,jquery,mongodb,mysql,nodejs,npm,postgres,postman,py,react,tailwind,vscode,wordpress,yarn&perline=10)](https://skillicons.dev)
