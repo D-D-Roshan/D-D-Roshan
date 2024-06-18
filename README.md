@@ -10,8 +10,9 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face.png" alt="Smiling Face" width="25" height="25" />ABOUT ME:
 
 <div>
-<img width="200" height="200" align="right" src="https://www.animatedimages.org/data/media/56/animated-computer-image-0116.gif" alt="animated-computer-image-0116" />
+
 - 📝 I regularly write articles on www.roshan-tech.blogspot.com
+<img  width="300" align="right" src="https://www.animatedimages.org/data/media/56/animated-computer-image-0116.gif" alt="animated-computer-image-0116" />
 
 - 💬 Ask me about **technologies**
 
@@ -38,6 +39,7 @@
 <img width="60" height="60" src="https://img.icons8.com/?size=100&id=akG4VRhAoSii&format=png&color=000000" target="_blank"/>
 </a> 
 </div>
+
 
 ## <img width="25" height="25"  src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"/>TECH TOOLKIT:
 
