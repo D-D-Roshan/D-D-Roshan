@@ -3,14 +3,13 @@
 <h1 align="center">
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+code&size=35&pause=1000&color=F7E9AB&random=false&height=100&lines=Hello%F0%9F%91%8B+I'm+Roshan" alt="Typing SVG" /></a>
+  <img width="1000" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"/>
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&random=false&width=650&height=100&lines=I'm+A+passionate+Frontend+Developer" alt="Typing SVG" />
+  <img width="1000" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"/>
 </a>
 </h1> 
 </div>
-
-
-
 
 
 
@@ -56,6 +55,7 @@
 ## <img width="25" height="25"  src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"/>TECH TOOLKIT:
 
 <div  align="center">
+<img width="200" height="200" align="center" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif"/>
 
 [![My Skills](https://skillicons.dev/icons?i=au,babel,bootstrap,css,express,figma,firebase,git,html,java,js,jquery,mongodb,mysql,nodejs,npm,postgres,postman,py,react,tailwind,vscode,wordpress,yarn&perline=10)](https://skillicons.dev)
 
@@ -87,7 +87,7 @@
 
 </div>
 
-<img width="150" height="150" align="right" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"/>
+
 <h2 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+code&size=35&pause=1000&color=E3F716&random=false&height=100&lines=Thanks+for+watching" alt="Typing SVG" /></a>
 </h2>  
