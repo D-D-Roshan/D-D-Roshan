@@ -9,6 +9,17 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face.png" alt="Smiling Face" width="25" height="25" />ABOUT ME:
 
+<div>
+<img width="200" height="200" align="right" src="https://www.animatedimages.org/data/media/56/animated-computer-image-0116.gif" alt="animated-computer-image-0116" />
+- 📝 I regularly write articles on www.roshan-tech.blogspot.com
+
+- 💬 Ask me about **technologies**
+
+- 📫 How to reach me **droshan01092003@gmail.com**
+
+
+</div>
+
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down.png" alt="Backhand Index Pointing Down" width="25" height="25" /> CONNECT WITH ME:
 <div align="center">
 <a href="https://www.facebook.com/roshan.d.942145">
@@ -48,7 +59,7 @@
 </div>
 </div>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Dark%20Skin%20Tone.png" alt="Writing Hand Dark Skin Tone" width="25" height="25" /> RANDOM DEV QUOTES
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Medium%20Skin%20Tone.png" alt="Writing Hand Medium Skin Tone" width="25" height="25" /> RANDOM DEV QUOTES
 <div align="center">
           
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
