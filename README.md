@@ -61,7 +61,7 @@
 
 </div>
 
-## 📊 GITHUB STATS:
+## <img width="25" height="25"  src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif"/> GITHUB STATS:
 <div align="center">
           
 ![](https://github-readme-stats.vercel.app/api?username=D-D-Roshan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
@@ -87,10 +87,17 @@
 
 </div>
 
+<img width="150" height="150" align="right" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"/>
 <h2 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+code&size=35&pause=1000&color=E3F716&random=false&height=100&lines=Thanks+for+watching" alt="Typing SVG" /></a>
-</h2>   
+</h2>  
 
 
-[![](https://visitcount.itsvg.in/api?id=D-D-Roshan&icon=0&color=0)](https://visitcount.itsvg.in)
+<div>
+  
+  [![](https://visitcount.itsvg.in/api?id=D-D-Roshan&icon=0&color=0)](https://visitcount.itsvg.in)
+  
+ 
+</div>
+
 
