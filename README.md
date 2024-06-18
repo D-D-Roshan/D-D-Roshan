@@ -3,10 +3,10 @@
 <h1 align="center">
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+code&size=35&pause=1000&color=F7E9AB&random=false&height=100&lines=Hello%F0%9F%91%8B+I'm+Roshan" alt="Typing SVG" /></a>
-  <img width="1000" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"/>
+ 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&random=false&width=650&height=100&lines=I'm+A+passionate+Frontend+Developer" alt="Typing SVG" />
-   <img width="1000" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"/>
+  
 </a>
 </h1> 
 </div>
@@ -31,7 +31,7 @@
 
 
 </div>
-<img width="1000" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"/>
+
    
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down.png" alt="Backhand Index Pointing Down" width="25" height="25" /> CONNECT WITH ME:
 <div align="center">
@@ -52,7 +52,7 @@
 </a> 
 </div>
 
-<img width="1000" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"/>
+
 
 ## <img width="25" height="25"  src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"/>TECH TOOLKIT:
 
@@ -63,7 +63,7 @@
 
 </div>
 
-<img width="1000" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"/>
+
 
 ## <img width="25" height="25"  src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif"/> GITHUB STATS:
 <div align="center">
@@ -77,7 +77,7 @@
 </div>
 </div>
 
-<img width="1000" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"/>
+
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Medium%20Skin%20Tone.png" alt="Writing Hand Medium Skin Tone" width="25" height="25" /> RANDOM DEV QUOTES
 <div align="center">
@@ -86,7 +86,7 @@
 
 </div>
 
-<img width="1000" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"/>
+
 
 ### 🔝 TOP CONTRIBUTED REPO
 <div align="center">
@@ -101,7 +101,7 @@
 </h2>  
 
 
-<img width="1000" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"/>
+<img width="1000" src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif"/>
 <div>
   
   [![](https://visitcount.itsvg.in/api?id=D-D-Roshan&icon=0&color=0)](https://visitcount.itsvg.in)
