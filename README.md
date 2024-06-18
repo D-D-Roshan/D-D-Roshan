@@ -1,3 +1,4 @@
+<div>
 <img width="2000" height="300" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>
 <h1 align="center">
 <a href="https://git.io/typing-svg">
@@ -6,15 +7,26 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&random=false&width=650&height=100&lines=I'm+A+passionate+Frontend+Developer" alt="Typing SVG" />
 </a>
 </h1> 
+</div>
+
+
+
+
+
+
+
+
+<img  width="200"  align="right" src="https://www.animatedimages.org/data/media/56/animated-computer-image-0116.gif" alt="animated-computer-image-0116" />
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face.png" alt="Smiling Face" width="25" height="25" />ABOUT ME:
 
 <div>
 
 - 📝 I regularly write articles on www.roshan-tech.blogspot.com
-<img  width="300" align="right" src="https://www.animatedimages.org/data/media/56/animated-computer-image-0116.gif" alt="animated-computer-image-0116" />
+
 
 - 💬 Ask me about **technologies**
+
 
 - 📫 How to reach me **droshan01092003@gmail.com**
 
