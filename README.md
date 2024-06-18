@@ -16,10 +16,10 @@
 
 
 
-<img  width="200"  align="right" src="https://www.animatedimages.org/data/media/56/animated-computer-image-0116.gif" alt="animated-computer-image-0116" />
+
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face.png" alt="Smiling Face" width="25" height="25" />ABOUT ME:
-
+<img  width="100" height="150" align="right" src="https://www.animatedimages.org/data/media/56/animated-computer-image-0116.gif" alt="animated-computer-image-0116" />
 <div>
 
 - 📝 I regularly write articles on www.roshan-tech.blogspot.com
