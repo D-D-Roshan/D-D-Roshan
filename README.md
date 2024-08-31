@@ -24,7 +24,7 @@
 - 📝 I regularly write articles on www.roshan-tech.blogspot.com
 
 
-- 💬 Ask me about **technologies**
+- 💬 Do Check it out my portfolio https://droshan.netlify.app
 
 
 - 📫 How to reach me **droshan01092003@gmail.com**
